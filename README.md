@@ -1,1 +1,3 @@
+This repository contains a synthetic dataset comprising 1500 instances tailored for a binary classification task. Class 1 is generated using three Gaussian distributions, each with means [6,14], [10,6], and [14,14], while Class 0 is derived from a uniform distribution spanning the range [0, 20]. The main objective is to showcase the application of a Decision Tree classifier in accurately classifying the instances.
+
 This code demonstrates how to generate synthetic data, train a Decision Tree classifier, visualize the decision tree, and evaluate model performance based on different depths. It provides a structured approach to understanding and analyzing classification tasks using Decision Trees.
